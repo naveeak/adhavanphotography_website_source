@@ -1,0 +1,5 @@
+[submodule "adhavan-photography-site/themes/hugo-bootstrap-bare"]
+	path = adhavan-photography-site/themes/hugo-bootstrap-bare
+	url = https://gitlab.com/pixlsus/hugo-bootstrap-bare.git
+	branch = bootstrap5
+ignore = dirty
