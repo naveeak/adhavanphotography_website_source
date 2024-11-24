@@ -10,17 +10,17 @@ const HomePage = () => {
 
   const slides = [
     {
-      image: "/api/placeholder/1920/1080",
+      image: `https://via.placeholder.com/1920x1080`,
       title: "Capturing Love Stories",
       description: "Timeless Wedding Photography"
     },
     {
-      image: "/api/placeholder/1920/1080",
+      image: `https://via.placeholder.com/1920x1080`,
       title: "Pre-Wedding Moments",
       description: "Beautiful Couple Shoots"
     },
     {
-      image: "/api/placeholder/1920/1080",
+      image: `https://via.placeholder.com/1920x1080`,
       title: "Wedding Events",
       description: "Every Detail Matters"
     }
